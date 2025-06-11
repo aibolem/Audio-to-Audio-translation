@@ -7,5 +7,5 @@ ngrok==0.1.6
 nltk==3.8.1
 openai==0.27.1
 pytube==12.1.2
-requests==2.31.0
+requests==2.32.4
 numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
